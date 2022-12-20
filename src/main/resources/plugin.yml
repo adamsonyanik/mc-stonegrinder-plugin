@@ -1,0 +1,4 @@
+name: StoneGrinder
+version: 1.0
+main: io.github.adamson.StoneGrinder
+api-version: 1.19
